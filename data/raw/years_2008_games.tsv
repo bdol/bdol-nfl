@@ -2,7 +2,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 1	Thu	September 4	boxscore	New York Giants		Washington Redskins	16	7	354	1	209	0
 1	Sun	September 7	boxscore	Chicago Bears	@	Indianapolis Colts	29	13	319	0	293	1
 1	Sun	September 7	boxscore	Philadelphia Eagles		St Louis Rams	38	3	522	0	166	0
-1	Sun	September 7	boxscore	Pittsburgh Stelers		Houston Texans	38	17	305	1	234	3
+1	Sun	September 7	boxscore	Pittsburgh Steelers		Houston Texans	38	17	305	1	234	3
 1	Sun	September 7	boxscore	Arizona Cardinals	@	San Francisco 49ers	23	13	285	0	291	5
 1	Sun	September 7	boxscore	Baltimore Ravens		Cincinnati Bengals	17	10	358	2	154	2
 1	Sun	September 7	boxscore	Carolina Panthers	@	San Diego Chargers	26	24	388	1	316	1
@@ -21,7 +21,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 2	Sun	September 14	boxscore	Washington Redskins		New Orleans Saints	29	24	455	1	250	3
 2	Sun	September 14	boxscore	New York Giants	@	St Louis Rams	41	13	441	0	201	1
 2	Sun	September 14	boxscore	San Francisco 49ers	@	Seattle Seahawks	33	30	365	1	351	3
-2	Sun	September 14	boxscore	Pittsburgh Stelers	@	Cleveland Browns	10	6	281	0	208	2
+2	Sun	September 14	boxscore	Pittsburgh Steelers	@	Cleveland Browns	10	6	281	0	208	2
 2	Sun	September 14	boxscore	Carolina Panthers		Chicago Bears	20	17	216	1	256	2
 2	Sun	September 14	boxscore	Tennessee Titans	@	Cincinnati Bengals	24	7	295	1	215	2
 2	Sun	September 14	boxscore	New England Patriots	@	New York Jets	19	10	260	0	256	1
@@ -35,7 +35,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 3	Sun	September 21	boxscore	Baltimore Ravens		Cleveland Browns	28	10	273	2	169	3
 3	Sun	September 21	boxscore	Washington Redskins		Arizona Cardinals	24	17	323	0	313	2
 3	Sun	September 21	boxscore	San Francisco 49ers		Detroit Lions	31	13	370	0	240	2
-3	Sun	September 21	boxscore	Philadelphia Eagles		Pittsburgh Stelers	15	6	260	3	181	3
+3	Sun	September 21	boxscore	Philadelphia Eagles		Pittsburgh Steelers	15	6	260	3	181	3
 3	Sun	September 21	boxscore	Seattle Seahawks		St Louis Rams	37	13	407	1	240	2
 3	Sun	September 21	boxscore	Buffalo Bills		Oakland Raiders	24	23	378	3	247	1
 3	Sun	September 21	boxscore	Denver Broncos		New Orleans Saints	34	32	369	2	502	1
@@ -58,7 +58,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 4	Sun	September 28	boxscore	Kansas City Chiefs		Denver Broncos	33	19	370	1	446	4
 4	Sun	September 28	boxscore	Carolina Panthers		Atlanta Falcons	24	9	401	0	268	0
 4	Sun	September 28	boxscore	Tennessee Titans		Minnesota Vikings	30	17	275	1	333	4
-4	Mon	September 29	boxscore	Pittsburgh Stelers		Baltimore Ravens	23	20	237	1	243	1
+4	Mon	September 29	boxscore	Pittsburgh Steelers		Baltimore Ravens	23	20	237	1	243	1
 5	Sun	October 5	boxscore	New England Patriots	@	San Francisco 49ers	30	21	377	2	199	3
 5	Sun	October 5	boxscore	New York Giants		Seattle Seahawks	44	6	523	0	187	1
 5	Sun	October 5	boxscore	Miami Dolphins		San Diego Chargers	17	10	390	1	202	0
@@ -70,7 +70,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 5	Sun	October 5	boxscore	Denver Broncos		Tampa Bay Buccaneers	16	13	333	1	307	1
 5	Sun	October 5	boxscore	Arizona Cardinals		Buffalo Bills	41	17	373	0	287	4
 5	Sun	October 5	boxscore	Chicago Bears	@	Detroit Lions	34	7	425	1	185	2
-5	Sun	October 5	boxscore	Pittsburgh Stelers	@	Jacksonville Jaguars	26	21	415	1	213	0
+5	Sun	October 5	boxscore	Pittsburgh Steelers	@	Jacksonville Jaguars	26	21	415	1	213	0
 5	Sun	October 5	boxscore	Carolina Panthers		Kansas City Chiefs	34	0	441	2	127	3
 5	Mon	October 6	boxscore	Minnesota Vikings	@	New Orleans Saints	30	27	270	0	375	4
 6	Sun	October 12	boxscore	Houston Texans		Miami Dolphins	29	28	485	4	370	1
@@ -98,13 +98,13 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 7	Sun	October 19	boxscore	Washington Redskins		Cleveland Browns	14	11	351	1	236	0
 7	Sun	October 19	boxscore	Chicago Bears		Minnesota Vikings	48	41	327	1	439	5
 7	Sun	October 19	boxscore	St Louis Rams		Dallas Cowboys	34	14	325	0	341	4
-7	Sun	October 19	boxscore	Pittsburgh Stelers	@	Cincinnati Bengals	38	10	375	0	212	1
+7	Sun	October 19	boxscore	Pittsburgh Steelers	@	Cincinnati Bengals	38	10	375	0	212	1
 7	Sun	October 19	boxscore	Carolina Panthers		New Orleans Saints	30	7	336	0	343	2
 7	Mon	October 20	boxscore	New England Patriots		Denver Broncos	41	7	404	0	275	5
 8	Sun	October 26	boxscore	Philadelphia Eagles		Atlanta Falcons	27	14	432	1	335	3
 8	Sun	October 26	boxscore	New England Patriots		St Louis Rams	23	16	348	2	358	1
 8	Sun	October 26	boxscore	New York Jets		Kansas City Chiefs	28	24	420	3	330	0
-8	Sun	October 26	boxscore	New York Giants	@	Pittsburgh Stelers	21	14	282	0	249	4
+8	Sun	October 26	boxscore	New York Giants	@	Pittsburgh Steelers	21	14	282	0	249	4
 8	Sun	October 26	boxscore	Baltimore Ravens		Oakland Raiders	29	10	375	1	234	1
 8	Sun	October 26	boxscore	Cleveland Browns	@	Jacksonville Jaguars	23	17	327	0	380	1
 8	Sun	October 26	boxscore	Seattle Seahawks	@	San Francisco 49ers	34	13	261	0	388	2
@@ -128,11 +128,11 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 9	Sun	November 2	boxscore	Chicago Bears		Detroit Lions	27	23	320	2	333	3
 9	Sun	November 2	boxscore	New York Giants		Dallas Cowboys	35	14	319	3	183	4
 9	Sun	November 2	boxscore	Cincinnati Bengals		Jacksonville Jaguars	21	19	312	2	282	1
-9	Mon	November 3	boxscore	Pittsburgh Stelers	@	Washington Redskins	23	6	229	1	221	2
+9	Mon	November 3	boxscore	Pittsburgh Steelers	@	Washington Redskins	23	6	229	1	221	2
 10	Thu	November 6	boxscore	Denver Broncos	@	Cleveland Browns	34	30	564	1	399	1
 10	Sun	November 9	boxscore	Miami Dolphins		Seattle Seahawks	21	19	361	1	298	0
 10	Sun	November 9	boxscore	Carolina Panthers	@	Oakland Raiders	17	6	219	4	259	3
-10	Sun	November 9	boxscore	Indianapolis Colts	@	Pittsburgh Stelers	24	20	290	0	326	3
+10	Sun	November 9	boxscore	Indianapolis Colts	@	Pittsburgh Steelers	24	20	290	0	326	3
 10	Sun	November 9	boxscore	San Diego Chargers		Kansas City Chiefs	20	19	400	2	339	0
 10	Sun	November 9	boxscore	New York Giants	@	Philadelphia Eagles	36	31	401	2	300	2
 10	Sun	November 9	boxscore	Baltimore Ravens	@	Houston Texans	41	13	333	0	355	4
@@ -149,7 +149,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 11	Sun	November 16	boxscore	Dallas Cowboys	@	Washington Redskins	14	10	315	2	228	1
 11	Sun	November 16	boxscore	Tampa Bay Buccaneers		Minnesota Vikings	19	13	363	1	210	2
 11	Sun	November 16	boxscore	San Francisco 49ers		St Louis Rams	35	16	334	2	406	3
-11	Sun	November 16	boxscore	Pittsburgh Stelers		San Diego Chargers	11	10	410	0	218	2
+11	Sun	November 16	boxscore	Pittsburgh Steelers		San Diego Chargers	11	10	410	0	218	2
 11	Sun	November 16	boxscore	Philadelphia Eagles	@	Cincinnati Bengals	13	13	391	4	282	1
 11	Sun	November 16	boxscore	Tennessee Titans	@	Jacksonville Jaguars	24	14	344	1	257	1
 11	Sun	November 16	boxscore	Green Bay Packers		Chicago Bears	37	3	427	1	234	1
@@ -159,7 +159,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 11	Sun	November 16	boxscore	Indianapolis Colts		Houston Texans	33	27	474	0	356	1
 11	Sun	November 16	boxscore	New Orleans Saints	@	Kansas City Chiefs	30	20	369	1	330	1
 11	Mon	November 17	boxscore	Cleveland Browns	@	Buffalo Bills	29	27	337	0	334	4
-12	Thu	November 20	boxscore	Pittsburgh Stelers		Cincinnati Bengals	27	10	364	1	208	1
+12	Thu	November 20	boxscore	Pittsburgh Steelers		Cincinnati Bengals	27	10	364	1	208	1
 12	Sun	November 23	boxscore	Tampa Bay Buccaneers	@	Detroit Lions	38	20	255	3	207	3
 12	Sun	November 23	boxscore	Chicago Bears	@	St Louis Rams	27	3	334	2	207	4
 12	Sun	November 23	boxscore	Minnesota Vikings	@	Jacksonville Jaguars	30	12	226	1	321	5
@@ -185,7 +185,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 13	Sun	November 30	boxscore	San Francisco 49ers	@	Buffalo Bills	10	3	195	1	350	1
 13	Sun	November 30	boxscore	Tampa Bay Buccaneers		New Orleans Saints	23	20	254	1	332	3
 13	Sun	November 30	boxscore	Baltimore Ravens	@	Cincinnati Bengals	34	3	451	0	155	1
-13	Sun	November 30	boxscore	Pittsburgh Stelers	@	New England Patriots	33	10	333	1	267	5
+13	Sun	November 30	boxscore	Pittsburgh Steelers	@	New England Patriots	33	10	333	1	267	5
 13	Sun	November 30	boxscore	Denver Broncos	@	New York Jets	34	17	484	1	383	2
 13	Sun	November 30	boxscore	Indianapolis Colts	@	Cleveland Browns	10	6	215	3	193	2
 13	Sun	November 30	boxscore	Minnesota Vikings		Chicago Bears	34	14	378	1	228	3
@@ -193,7 +193,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 13	Mon	December 1	boxscore	Houston Texans		Jacksonville Jaguars	30	17	326	1	388	3
 14	Thu	December 4	boxscore	San Diego Chargers		Oakland Raiders	34	7	372	1	163	4
 14	Sun	December 7	boxscore	New England Patriots	@	Seattle Seahawks	24	21	344	0	339	1
-14	Sun	December 7	boxscore	Pittsburgh Stelers		Dallas Cowboys	20	13	238	2	289	5
+14	Sun	December 7	boxscore	Pittsburgh Steelers		Dallas Cowboys	20	13	238	2	289	5
 14	Sun	December 7	boxscore	Baltimore Ravens		Washington Redskins	24	10	281	2	254	3
 14	Sun	December 7	boxscore	Arizona Cardinals		St Louis Rams	34	10	335	1	308	3
 14	Sun	December 7	boxscore	Philadelphia Eagles	@	New York Giants	20	14	331	0	211	0
@@ -209,7 +209,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 14	Mon	December 8	boxscore	Carolina Panthers		Tampa Bay Buccaneers	38	23	464	2	384	0
 15	Thu	December 11	boxscore	Chicago Bears		New Orleans Saints	27	24	226	3	345	2
 15	Sun	December 14	boxscore	Seattle Seahawks	@	St Louis Rams	23	20	333	2	342	2
-15	Sun	December 14	boxscore	Pittsburgh Stelers	@	Baltimore Ravens	13	9	311	2	202	2
+15	Sun	December 14	boxscore	Pittsburgh Steelers	@	Baltimore Ravens	13	9	311	2	202	2
 15	Sun	December 14	boxscore	New England Patriots	@	Oakland Raiders	49	26	487	1	334	1
 15	Sun	December 14	boxscore	Cincinnati Bengals		Washington Redskins	20	13	310	0	280	2
 15	Sun	December 14	boxscore	Atlanta Falcons		Tampa Bay Buccaneers	13	10	373	3	325	1
@@ -225,7 +225,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 15	Mon	December 15	boxscore	Philadelphia Eagles		Cleveland Browns	30	10	418	3	196	2
 16	Thu	December 18	boxscore	Indianapolis Colts	@	Jacksonville Jaguars	31	24	396	0	409	1
 16	Sat	December 20	boxscore	Baltimore Ravens	@	Dallas Cowboys	33	24	388	1	327	2
-16	Sun	December 21	boxscore	Tennessee Titans		Pittsburgh Stelers	31	14	322	0	374	4
+16	Sun	December 21	boxscore	Tennessee Titans		Pittsburgh Steelers	31	14	322	0	374	4
 16	Sun	December 21	boxscore	Oakland Raiders		Houston Texans	27	16	362	1	324	1
 16	Sun	December 21	boxscore	Seattle Seahawks		New York Jets	13	3	295	2	265	2
 16	Sun	December 21	boxscore	San Francisco 49ers	@	St Louis Rams	17	16	273	4	343	1
@@ -244,7 +244,7 @@ Week	Day	Date	BoxScore	Winner/tie	Away	Loser/tie	PtsW	PtsL	YdsW	TOW	YdsL	TOL
 17	Sun	December 28	boxscore	Baltimore Ravens		Jacksonville Jaguars	27	7	431	0	245	4
 17	Sun	December 28	boxscore	San Diego Chargers		Denver Broncos	52	21	491	0	406	2
 17	Sun	December 28	boxscore	Philadelphia Eagles		Dallas Cowboys	44	6	303	1	298	5
-17	Sun	December 28	boxscore	Pittsburgh Stelers		Cleveland Browns	31	0	369	1	126	2
+17	Sun	December 28	boxscore	Pittsburgh Steelers		Cleveland Browns	31	0	369	1	126	2
 17	Sun	December 28	boxscore	Arizona Cardinals		Seattle Seahawks	34	21	457	2	330	3
 17	Sun	December 28	boxscore	Atlanta Falcons		St Louis Rams	31	27	417	3	408	0
 17	Sun	December 28	boxscore	Indianapolis Colts		Tennessee Titans	23	0	390	0	125	0
