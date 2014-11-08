@@ -7,7 +7,13 @@ def create_gid(year, week, away_team_id, home_team_id):
     return "{0}_{1}_{2}_{3}".format(year, week, away_team_id, home_team_id)
 
 def parse_gid(gid):
-    pass
+    toks = gid.split("_")
+    vals = dict()
+    vals["year"] = toks[0]
+    vals["week"] = toks[1]
+    vals["away_team_id"] = toks[2]
+    vals["home_team_id"] = toks[3]
+    return vals
 
 def create_game_keys(directory, team_ids):
     data_files = glob.glob(os.path.abspath(directory)+'/*games.tsv')
